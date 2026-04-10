@@ -38,9 +38,9 @@ Os requisitos estão organizados em três etapas evolutivas:
 
 ---
 
-## 📦 Entregas
+## Entregas
 
-Para cada requisito, o aluno deve entregar:
+Para cada requisito, o grupo deve entregar:
 
 - Script SQL completo  
 - Consultas implementadas  
@@ -49,7 +49,7 @@ Para cada requisito, o aluno deve entregar:
 
 ---
 
-## 📌 Boas Práticas
+## Boas Práticas
 
 - Organizar o código SQL em arquivos separados  
 - Utilizar comentários explicativos  
@@ -66,9 +66,9 @@ Para cada requisito, o aluno deve entregar:
 
 ---
 
-## 🚀 Dica
+## Dica
 
-Pense no banco de dados como parte central do sistema.  
+Pensem no banco de dados como parte central do sistema.  
 As decisões tomadas aqui impactam diretamente o funcionamento da aplicação.
 
 ## 🗓️ Cronograma de Sprints – Projeto ABP
@@ -88,7 +88,7 @@ As aulas abaixo serão dedicadas ao desenvolvimento incremental do projeto, segu
 
 ---
 
-### 🎯 Objetivo das Sprints
+### Objetivo das Sprints
 
 Cada sprint tem como objetivo acompanhar a evolução do projeto, permitindo:
 
