@@ -79,7 +79,7 @@ As aulas abaixo serão dedicadas ao desenvolvimento incremental do projeto, segu
 |------------|----------|------------------|
 | 10/04/2026 | Aula Inicial | Apresentação e explicação dos requisitos (BDR.01, BDR.02, BDR.03) e do cronograma |
 | 24/04/2026 | Sprint 1 | Modelagem inicial do banco (entidades, atributos, PK e FK) |
-| 08/05/2026 | Sprint 2 | Criação das tabelas (CREATE TABLE) + constraints |
+| 08/05/2026 | Sprint 2 | Criação das tabelas (CREATE TABLE) e constraints |
 | 15/05/2026 | Sprint 3 | Inserção de dados (INSERT) e consultas básicas (SELECT, WHERE) |
 | 22/05/2026 | Sprint 4 | Atualização e remoção de dados (UPDATE, DELETE) e ORDER BY e LIMIT |
 | 29/05/2026 | Sprint 5 | Funções de agregação (COUNT, SUM, AVG) e GROUP BY |
