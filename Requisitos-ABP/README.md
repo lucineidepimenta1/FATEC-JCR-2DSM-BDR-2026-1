@@ -75,20 +75,33 @@ As decisões tomadas aqui impactam diretamente o funcionamento da aplicação.
 
 As aulas abaixo serão dedicadas ao desenvolvimento incremental do projeto, seguindo a metodologia de Sprints.
 
-| Data       | Sprint   | Sugestão de Foco |
-|------------|----------|------------------|
-| 10/04/2026 | Aula Inicial | Apresentação e explicação dos requisitos (BDR.01, BDR.02, BDR.03) e do cronograma |
-| 24/04/2026 | Sprint 1 | Modelagem inicial do banco (entidades, atributos, PK e FK) |
-| 08/05/2026 | Sprint 2 | Criação das tabelas (CREATE TABLE) e constraints |
-| 15/05/2026 | Sprint 3 | Inserção de dados (INSERT) e consultas básicas (SELECT, WHERE) |
-| 22/05/2026 | Sprint 4 | Atualização e remoção de dados (UPDATE, DELETE) e ORDER BY e LIMIT |
-| 29/05/2026 | Sprint 5 | Funções de agregação (COUNT, SUM, AVG) e GROUP BY |
-| 09/06/2026 | Sprint 6 | JOIN (INNER e LEFT) e relatórios com múltiplas tabelas |
-| 19/06/2026 | Sprint 7 | Subqueries e otimização com índices |
+| Data       | Sprint         | Sugestão de Foco                                                                 | Requisito | Entrega Esperada |
+|------------|----------------|----------------------------------------------------------------------------------|------------|------------------|
+| 10/04/2026 | Aula Inicial   | Apresentação do projeto ABP, explicação dos requisitos e cronograma             | -          | Nenhuma (aula de orientação) |
+| 24/04/2026 | Sprint 1       | Modelagem inicial do banco (entidades, atributos, PK e FK)                      | BDR.01     | DER/MER + descrição das tabelas |
+| 08/05/2026 | Sprint 2       | Criação das tabelas (CREATE TABLE) + constraints                                | BDR.01     | Script SQL (CREATE TABLE) |
+| 15/05/2026 | Sprint 3       | Inserção de dados (INSERT) + consultas básicas (SELECT, WHERE)                  | BDR.01     | Script SQL (INSERT + SELECT) |
+| 22/05/2026 | Sprint 4       | UPDATE, DELETE + ORDER BY e LIMIT                                               | BDR.01     | Script SQL (UPDATE, DELETE + consultas) |
+| 29/05/2026 | Sprint 5       | Funções de agregação (COUNT, SUM, AVG) + GROUP BY + HAVING                      | BDR.01     | Consultas com agregações |
+| 09/06/2026 | Sprint 6       | JOIN (INNER e LEFT) + relatórios com múltiplas tabelas                          | BDR.01     | Consultas com JOIN (2 e 3 tabelas) |
+| 19/06/2026 | Sprint 7       | Subqueries + índices + introdução a Views/Procedures                            | BDR.02/03  | Subqueries + índices + (1 view ou 1 procedure simples) |
 
 ---
 
-### Objetivo das Sprints
+## Entrega Final (BDR.03)
+
+Os conteúdos avançados deverão ser entregues como consolidação final do projeto:
+
+- Views
+- Stored Procedures
+- Triggers
+- Regras de negócio
+
+📅 Data: definida pelo professor
+
+---
+
+## Objetivo das Sprints
 
 Cada sprint tem como objetivo acompanhar a evolução do projeto, permitindo:
 
@@ -99,15 +112,14 @@ Cada sprint tem como objetivo acompanhar a evolução do projeto, permitindo:
 
 ---
 
-### ⚠️ Importante
+## ⚠️ Importante
 
-- As entregas devem ser realizadas nas datas indicadas  
-- O não cumprimento pode impactar na avaliação do projeto  
-- O projeto é evolutivo: cada sprint depende da anterior  
+- O desenvolvimento é incremental (um requisito depende do anterior)  
+- Entregas fora do prazo podem impactar na avaliação  
+- Scripts que não executam não serão considerados  
 
 ---
 
-### 💡 Dica
+## 💡 Dica
 
-As sugestões de foco não são obrigatórias, mas ajudam na organização do projeto.  
-Cada grupo pode adaptar conforme sua estratégia de desenvolvimento.
+Os conteúdos avançados (Views, Procedures e Triggers) fazem parte da entrega final do projeto.
