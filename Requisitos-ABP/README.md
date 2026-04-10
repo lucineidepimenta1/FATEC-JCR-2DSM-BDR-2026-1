@@ -17,6 +17,7 @@ Consultas básicas (SELECT, WHERE, ORDER BY, LIMIT)
 Funções de agregação (COUNT, SUM, AVG, GROUP BY, HAVING)
 JOIN (INNER JOIN, LEFT JOIN)
 
+
 BDR.02 – Subconsultas e Otimização
 Subqueries
 Consultas analíticas
