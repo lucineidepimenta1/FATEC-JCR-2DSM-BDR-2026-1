@@ -1,7 +1,7 @@
 
 📢 **AVISO – PROVA 2 (Banco de Dados Relacional)**
 
-Prezados(as) estudantes,
+Prezados estudantes,
 
 Informo que a **Prova 2** da disciplina de **Banco de Dados Relacional** será realizada conforme as informações abaixo:
 
