@@ -70,6 +70,9 @@ A prova conterá:
 * A entrega da prova e saída da sala serão permitidas somente a partir das **22h30**.
 * Ao entregar a prova, o estudante deverá deixar a sala de forma silenciosa para não prejudicar os colegas que ainda estiverem realizando a avaliação.
 
+### 📝 Datas e Pesos das Avaliações
+Link: https://github.com/lucineidepimenta1/FATEC-JCR-2DSM-BDR-2026-1/blob/main/Apresentacao-da-Disciplina/BDR-Apresenta%C3%A7%C3%A3o%20da%20Disciplina.pdf
+
 📌 Recomenda-se revisar os exemplos trabalhados em sala, exercícios resolvidos, atividades práticas individuais e os materiais disponibilizados pela professora.
 
 Bons estudos e sucesso na avaliação!
