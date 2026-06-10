@@ -65,9 +65,9 @@ A prova conterá:
 ### ⏰ Horários
 
 * Não haverá tempo adicional para estudantes que chegarem após o início da avaliação (até às 22:35).
-* Será permitida a entrada de estudantes até **22h35**.
+* Será permitida a entrada de estudantes até **21h35**.
 * Após esse horário, não será permitida a entrada de estudantes para realização da avaliação.
-* A entrega da prova e saída da sala serão permitidas somente a partir das **22h30**.
+* A entrega da prova e saída da sala serão permitidas somente a partir das **21h30**.
 * Ao entregar a prova, o estudante deverá deixar a sala de forma silenciosa para não prejudicar os colegas que ainda estiverem realizando a avaliação.
 
 📌 Recomenda-se revisar os exemplos trabalhados em sala, exercícios resolvidos, atividades práticas individuais e os materiais disponibilizados pela professora.
